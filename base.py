@@ -2,7 +2,7 @@ from time import clock
 from functools import reduce
 from random import shuffle
 MAXSIZE = 50    # 棋盘最大尺寸
-
+#abcdefg 
 
 ##################################################################
 #  单元格
